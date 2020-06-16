@@ -3,13 +3,13 @@
 Basic CNN model trained using [MNIST](http://yann.lecun.com/exdb/mnist/) and [NIST](https://www.nist.gov/itl/products-and-services/emnist-dataset) dataset to predict handwritten characters (letters and digits), each image is resized to grayscale 28x28px image. The model included in this repo is not perfect as I'm still learning to improve it. More explanation below:
 
 ### The Data
-NIST letters data, as you can see this data is imbalanced as letter I and F only has about 1k samples.
-![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/NIST.PNG)
+NIST letters data, as you can see this data is imbalanced as letter I and F only has about 1k samples.  
+![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/NIST.PNG)  
 
-MNIST digits train data 
+MNIST digits train data  
 ![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/mnist_train.PNG)
 
-MNIST digits test data
+MNIST digits test data  
 ![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/mnist_test.PNG)
 
 At first, I tried to put all of the data without choosing specific number of samples, the trained model is called **model.h5** in the model folder, 
