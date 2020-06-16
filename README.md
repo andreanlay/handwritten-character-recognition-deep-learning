@@ -32,6 +32,12 @@ I saw a little improvement over the real-life testing when using V2 model, which
 
 Then this model is trained using the ADAM gradient descent algorithm, logarithmic loss, and a mini-batch gradient descent with mini-batch size 512 then saved model will be used to predict canvas image in Tkinter GUI.
 
+Loss curve  
+![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/loss_graph.PNG)  
+
+App Demo  
+![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/demo.gif)  
+
 ### Prerequisites
 
 * Python 3.5 and up
