@@ -5,10 +5,10 @@ Basic CNN model trained using [MNIST](http://yann.lecun.com/exdb/mnist/) and [NI
 ### The Data
 
 NIST characters dataset    
-![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/NIST.PNG) 
+![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/images/nist.png) 
 
 MNIST digits dataset  
-![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/mnist_train.PNG)
+![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/images/mnist.png)
 
 To add more relevant data, ***Data Augmentation*** with the following properties were added:
    * Rotation (10 degree)
