@@ -2,10 +2,10 @@
 
 Basic CNN model trained using [MNIST](http://yann.lecun.com/exdb/mnist/) and [NIST](https://www.nist.gov/itl/products-and-services/emnist-dataset) dataset to predict handwritten characters (letters and digits), each image is resized to grayscale 28x28px image. The model included in this repo is not perfect as I'm still learning to improve it. More explanation below:
 
-### The Data 
+### The Data
 
-NIST characters dataset
-![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/NIST.PNG)  
+NIST characters dataset    
+![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/NIST.PNG) 
 
 MNIST digits dataset  
 ![](https://github.com/andreanlay/handwritten-character-recognition-deep-learning/blob/master/mnist_train.PNG)
